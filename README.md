@@ -1,3 +1,48 @@
+<img width="1346" height="612" alt="support_page_user_feed_back" src="https://github.com/user-attachments/assets/477f4f85-4a48-4b3f-8b12-129480d595cc" />
+
+
+<img width="1342" height="608" alt="Support_page_2" src="https://github.com/user-attachments/assets/f3ed8390-3c0b-43eb-8e12-62433ba4c06c" />
+
+
+<img width="1340" height="614" alt="Suppport_page" src="https://github.com/user-attachments/assets/9b56997c-fac2-47fc-b86a-273cc4858853" />
+
+
+<img width="1360" height="606" alt="human_approval_for_this_report" src="https://github.com/user-attachments/assets/91efb7b4-30f0-432f-94bf-d18e60e8b0e5" />
+
+
+<img width="1359" height="604" alt="proper-OUTPUT-2" src="https://github.com/user-attachments/assets/40e7a3ab-bc7f-4f47-a225-95a98b21eea9" />
+
+
+<img width="1360" height="612" alt="Proper_output_of_my_chatbot" src="https://github.com/user-attachments/assets/59cbcae7-ab41-407e-9c41-a5533b6c3a53" />
+
+
+<img width="1357" height="612" alt="Generated_the_proper_report_on_this" src="https://github.com/user-attachments/assets/91f114bc-4378-4bde-be4b-5a21d75bb1a0" />
+
+
+<img width="1356" height="614" alt="Chatbot_loading_scene" src="https://github.com/user-attachments/assets/5048072c-4eaa-45b0-a739-48d3210bc301" />
+
+
+<img width="1360" height="613" alt="Human_in_the_loop_Multiagent" src="https://github.com/user-attachments/assets/92b41c3b-c4ee-453e-a094-11aa93366a71" />
+
+
+<img width="1354" height="610" alt="Multiagent_chatbot_qurie" src="https://github.com/user-attachments/assets/7b262a38-a2a6-4871-85a1-38f6ae58720d" />
+
+
+<img width="1348" height="616" alt="Multiagent_login_12" src="https://github.com/user-attachments/assets/511b76d4-9ee8-406e-9797-f695b4a26fdc" />
+
+
+<img width="1356" height="609" alt="Multiagent_Login_1" src="https://github.com/user-attachments/assets/8ab2281d-4504-4fe1-8bbb-766428d624ff" />
+
+
+<img width="1345" height="611" alt="Multiagent_L_3" src="https://github.com/user-attachments/assets/93ef2305-5699-43ad-96f5-d7ddd3ba4dc1" />
+
+
+<img width="1329" height="608" alt="Multiagent_L_2" src="https://github.com/user-attachments/assets/6b014005-db8a-40c7-8a09-23647ee58f70" />
+
+<img width="1348" height="588" alt="MultiAgent_L_1" src="https://github.com/user-attachments/assets/4f1244ed-9d31-48bc-9718-b90c11b433f7" />
+
+
+
 # 🧠 Enterprise AI Knowledge Hub
 
 An end-to-end AI-powered knowledge management and document analysis system built with **LangChain, LangGraph, FastAPI, PostgreSQL, ChromaDB, and HuggingFace embeddings**.
