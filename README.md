@@ -80,3 +80,39 @@ Complete    Feedback
           Workflow Resumes
                  ↓
           Revised Response
+
+
+
+
+
+
+🗄️ PostgreSQL Database
+
+PostgreSQL is used for persistent application data.
+
+The current database architecture contains three primary tables:
+
+users
+   │
+   └──────< user_queries
+                    │
+                    └──────< llm_responses
+Users
+
+Stores user authentication information.
+
+User Queries
+
+Stores questions submitted by users.
+
+LLM Responses
+
+Stores AI-generated responses associated with user queries.
+
+This allows the application to maintain a relationship between:
+
+User
+ ↓
+Query
+ ↓
+AI Response
