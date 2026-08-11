@@ -116,3 +116,37 @@ User
 Query
  ↓
 AI Response
+
+
+
+
+
+
+⚡ FastAPI Backend
+
+FastAPI provides the API layer between the frontend and AI backend.
+
+Current API routes include:
+
+POST /api/login
+POST /api/upload
+POST /api/chat/start
+POST /api/chat/review
+
+Architecture:
+
+Frontend
+    ↓
+FastAPI
+    ↓
+LangGraph
+    ↓
+LangChain / RAG
+    ↓
+LLM
+    ↓
+PostgreSQL
+    ↓
+Response
+    ↓
+Frontend
